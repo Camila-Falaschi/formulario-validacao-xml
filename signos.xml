@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<signos>
+  <signo>
+    <dataInicio>21/03</dataInicio>
+    <dataFim>20/04</dataFim>
+    <signoNome>Áries</signoNome>
+    <descricao>Energia, iniciativa e liderança. Tendência a agir impulsivamente e com coragem.</descricao>
+  </signo>
+
+  <signo>
+    <dataInicio>21/04</dataInicio>
+    <dataFim>20/05</dataFim>
+    <signoNome>Touro</signoNome>
+    <descricao>Praticidade, paciência e busca por segurança. Apreço por conforto e estabilidade.</descricao>
+  </signo>
+
+  <signo>
+    <dataInicio>21/05</dataInicio>
+    <dataFim>20/06</dataFim>
+    <signoNome>Gêmeos</signoNome>
+    <descricao>Comunicação, versatilidade e curiosidade. Agilidade mental e sociabilidade.</descricao>
+  </signo>
+
+  <signo>
+    <dataInicio>21/06</dataInicio>
+    <dataFim>22/07</dataFim>
+    <signoNome>Câncer</signoNome>
+    <descricao>Sensibilidade, intuição e cuidado com o lar e as emoções. Forte vínculo afetivo.</descricao>
+  </signo>
+
+  <signo>
+    <dataInicio>23/07</dataInicio>
+    <dataFim>22/08</dataFim>
+    <signoNome>Leão</signoNome>
+    <descricao>Confiança, criatividade e necessidade de reconhecimento. Espírito generoso e teatral.</descricao>
+  </signo>
+
+  <signo>
+    <dataInicio>23/08</dataInicio>
+    <dataFim>22/09</dataFim>
+    <signoNome>Virgem</signoNome>
+    <descricao>Organização, análise e atenção aos detalhes. Tendência ao aperfeiçoamento.</descricao>
+  </signo>
+
+  <signo>
+    <dataInicio>23/09</dataInicio>
+    <dataFim>22/10</dataFim>
+    <signoNome>Libra</signoNome>
+    <descricao>Busca por equilíbrio, harmonia e relacionamentos. Valorização da estética e justiça.</descricao>
+  </signo>
+
+  <signo>
+    <dataInicio>23/10</dataInicio>
+    <dataFim>21/11</dataFim>
+    <signoNome>Escorpião</signoNome>
+    <descricao>Intensidade, profundidade emocional e poder de transformação. Mistério e lealdade.</descricao>
+  </signo>
+
+  <signo>
+    <dataInicio>22/11</dataInicio>
+    <dataFim>21/12</dataFim>
+    <signoNome>Sagitário</signoNome>
+    <descricao>Otimismo, aventura e busca por conhecimento. Espírito livre e direto.</descricao>
+  </signo>
+
+  <signo>
+    <dataInicio>22/12</dataInicio>
+    <dataFim>20/01</dataFim>
+    <signoNome>Capricórnio</signoNome>
+    <descricao>Disciplina, ambição e responsabilidade. Foco em metas e perseverança.</descricao>
+  </signo>
+
+  <signo>
+    <dataInicio>21/01</dataInicio>
+    <dataFim>19/02</dataFim>
+    <signoNome>Aquário</signoNome>
+    <descricao>Inovação, independência e visão humanitária. Valorização do coletivo.</descricao>
+  </signo>
+
+  <signo>
+    <dataInicio>20/02</dataInicio>
+    <dataFim>20/03</dataFim>
+    <signoNome>Peixes</signoNome>
+    <descricao>Sensibilidade, imaginação e empatia. Tendência à intuição e ao idealismo.</descricao>
+  </signo>
+</signos>

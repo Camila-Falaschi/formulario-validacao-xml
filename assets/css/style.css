@@ -1,0 +1,33 @@
+body {
+  background-color: #f8f9fa;
+  color: #212529;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.card-signo {
+  border-radius: 12px;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.06);
+}
+
+.signo-name {
+  font-size: 1.6rem;
+  font-weight: 700;
+}
+
+.description {
+  font-size: 1rem;
+  line-height: 1.4;
+}
+
+footer {
+  margin-top: 2.5rem;
+  padding: 1rem 0;
+  text-align: center;
+  color: #6c6c6c;
+}
+
+/* Form spacing */
+.form-section {
+  max-width: 540px;
+  margin: 0 auto;
+}
